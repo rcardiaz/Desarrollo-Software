@@ -45,6 +45,7 @@ h4{
         grid-template-rows: 1fr;
         grid-template-columns: 1fr 1fr 1fr;
         background-color: rgba(158, 200, 219, 0.793);
+           padding: 20px;
       }
       a{
         color:white;
