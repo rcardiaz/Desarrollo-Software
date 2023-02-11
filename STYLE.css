@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(193, 208, 227);
+}
+
+h1, h4{
+    font-family: 'Passion One', cursive;
+    color: rgb(70, 55, 115);
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+h4{
+  /* font-family: 'Palanquin', sans-serif;*/
+   font-size: 20px;
+    }
+
+
+
+#silla1{
+    width: 400px;
+    height: 400px;
+}
+#silla2{
+    width: 400px;
+    height: 400px;
+}
+#silla3{
+    width: 400px;
+    height: 400px;
+}
+.productos{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(137, 174, 203);
+    padding: 20px;
+    border-radius: 10px;
+    grid-gap: 5px;
+
+      }
+
+      ul{
+        list-style: none;
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+        background-color: rgba(158, 200, 219, 0.793);
+      }
+      a{
+        color:white;
+        text-decoration: none;
+      }
+
+      a:hover{
+        color:black;
+
+      }
+
+      .info{
+        font-family: 'Passion One', cursive;
+        color: rgb(21, 14, 40);
+        font-size: 20px;
+        padding: 20px;
+        border-radius: 10px;
+        text-align:center;
+       
+     
+      }
