@@ -33,7 +33,7 @@ h4{
     grid-template-rows: 1fr; //*UNA FILA*//
     grid-template-columns: 1fr 1fr 1fr; //*TRES COLUMNAS*//
     background-color: rgb(137, 174, 203);
-    padding: 20px;
+    padding: 120px;
     border-radius: 10px;
     grid-gap: 5px;
 
