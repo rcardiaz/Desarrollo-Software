@@ -17,16 +17,16 @@ h4{
 
 
 #silla1{
-    width: 200px;
+    width: 400px;
     height: 200px;
 }
 #silla2{
-    width: 200px;
+    width: 150px;
     height: 200px;
 }
 #silla3{
-    width: 200px;
-    height: 200px;
+    width: 320px;
+    height: 400px;
 }
 .productos{
     display: grid;
